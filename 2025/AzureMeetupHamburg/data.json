@@ -1,0 +1,33 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": ["itpropro", "jme107"]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Meetup Hamburg",
+    "Country": "Germany",
+    "Url": "https://www.meetup.com/azure-meetup-hamburg/",
+    "SessionizeApiId": "2uysnt9c",
+    "SessionizeEventName": "Global Azure 2025 - Hamburg",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/2uysnt9c/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Azure Meetup Hamburg",
+      "File": "AzureMeetupHamburg.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Hamburg",
+        "StartDate": "2025-05-09",
+        "EndDate": "2025-05-09",
+        "Address": "Hamburg",
+        "Latitude": 53.551086,
+        "Longitude": 9.993682
+      }
+    ]
+  }
+}
